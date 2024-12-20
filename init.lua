@@ -1,0 +1,15 @@
+require('plugins')
+require('colorscheme')
+require('lsp')
+require('keymaps')
+require('options')
+require('plugins')
+require("plugins-config.nvim-tree")
+require("format")
+require("setting")
+require("smooth_cursor")
+require("markdown")
+require("lsp-cmp")
+--require("competitest")
+
+
